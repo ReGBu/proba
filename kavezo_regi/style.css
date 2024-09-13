@@ -1,0 +1,27 @@
+body{
+    background-image: url(green.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: lightgreen;
+}
+
+div {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+h1, h2 {
+    font-face: Verdana;
+}
+
+table {
+    vertical-align: center;
+    margin: 0, auto;
+    border: 5px;
+}
+
+#tdp {
+    align-self: center;
+}
